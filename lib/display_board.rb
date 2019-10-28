@@ -12,4 +12,4 @@ def display_board(board)
   puts "   |   |   "
 end
 
-baord
+baord[4] = "X"
